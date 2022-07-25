@@ -15,15 +15,15 @@ I am a JavaScript fullstack developer trying to be best at what I do and incorpo
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DevEmmy&theme=algolia" alt="DevEmmy" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEmmy&theme=algolia&layout=compact" alt="DevEmmy" /></p>
 
 <br>
 <hr/>
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+      src="https://github-profile-trophy.vercel.app/?username=DevEmmy&row=1&column=3&theme=algolia" alt="DevEmmy" /></a>  </p>
 
 <!-- algolia -->
 <br>
